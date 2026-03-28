@@ -2,6 +2,7 @@
 # Safe conversion: preserve Bitly codes, collapse duplicates, group canonical then legacy
 
 # manually added
+/meetme  https://calendar.app.google/u2jC8WPs7dqZu4gk7 302
 /talks   https://mamund.com/talks                 302
 /blog   https://mamund.substack.com/              302
 /gh     https://github.com/mamund                 302
