@@ -1,5 +1,6 @@
 # First-pass Netlify redirects generated from links-with-traffic.tsv
 # Safe conversion: preserve Bitly codes, collapse duplicates, group canonical then legacy
+# current DNS is set to d.mamund.com
 
 # manually added
 /meetme  https://calendar.app.google/u2jC8WPs7dqZu4gk7 302
